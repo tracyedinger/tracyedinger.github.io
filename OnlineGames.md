@@ -1,8 +1,8 @@
 # Games you can play online
 
-## [Catan Universe](https://catanuniverse.com/en/)
+### [Catan Universe](https://catanuniverse.com/en/)
 
-## [Exploding Kittens](https://explodingkittens.com/mobile-app)
+### [Exploding Kittens](https://explodingkittens.com/mobile-app)
 
 ## Assorted games: 
 ###  [Game Sheep](https://www.gamesheep.com/)
