@@ -9,6 +9,7 @@
 ###  [Tabletopia](https://tabletopia.com/)
 ###  [Hasbro board games](https://www.ubisoft.com/en-us/game/hasbro-family-pack/)
 ###  [Days of Wonder](https://www.daysofwonder.com/online/en/play/)
+###  [Card Games](http://playingcards.io/)
 
 ### [Munchkin](http://titotu.io/munchkin-io)
 
