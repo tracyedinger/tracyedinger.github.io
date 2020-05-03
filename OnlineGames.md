@@ -3,6 +3,7 @@
 ### [Scattergories](https://scattergoriesonline.net)
 
 ### [Taboo](https://playtaboo.com/playpage)
+### [CodeNames](https://www.codenamesgreen.com/). Another [CodeNames](https://www.horsepaste.com/). And [one more, from github...](https://ninjabunny.github.io/KodeNames/#)
 
 ### [Pictionary](https://skribbl.io/). And [another Pictionary](https://www.drawize.com/)
 
@@ -11,6 +12,7 @@
 ### [Munchkin](http://titotu.io/munchkin-io)
 
 ## Assorted games: 
+
 ### [Game Sheep](https://www.gamesheep.com/)
 ### [Tabletopia](https://tabletopia.com/)
 ### [Poki](https://poki.com/en/cards)
@@ -19,11 +21,6 @@
 ### [Card Games](http://playingcards.io/)
 ### [Jackbox](https://www.jackboxgames.com/)
 ### [Steam](https://store.steampowered.com/)
-
-## Many varieties of CodeNames:
-### [One...](https://www.codenamesgreen.com/)
-### [Another...](https://www.horsepaste.com/)
-### [One from github...](https://ninjabunny.github.io/KodeNames/#)
 
 # Games to play on smart phones
 
