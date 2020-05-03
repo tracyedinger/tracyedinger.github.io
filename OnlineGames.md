@@ -6,7 +6,7 @@
 
 ### [Munchkin](http://titotu.io/munchkin-io)
 
-###[Scattergories](https://scattergoriesonline.net)
+### [Scattergories](https://scattergoriesonline.net)
 
 ## Assorted games: 
 ###  [Game Sheep](https://www.gamesheep.com/)
