@@ -8,8 +8,6 @@
 
 ### [Catan Universe](https://catanuniverse.com/en/)
 
-### [Exploding Kittens](https://explodingkittens.com/mobile-app)
-
 ### [Munchkin](http://titotu.io/munchkin-io)
 
 ## Assorted games: 
@@ -28,6 +26,8 @@
 ### [One from github...](https://ninjabunny.github.io/KodeNames/#)
 
 # Games to play on smart phones
+
+### [Exploding Kittens](https://explodingkittens.com/mobile-app)
 
 ## Taboo
 ### [Unspeakable](http://unspeakable.appdvision.com/unspeakable/Unspeakable_-_Taboo_Game_With_Friends.html)
