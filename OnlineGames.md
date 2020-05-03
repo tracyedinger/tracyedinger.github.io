@@ -3,9 +3,9 @@
 ### [Scattergories](https://scattergoriesonline.net)
 
 ### [Taboo](https://playtaboo.com/playpage)
-### [CodeNames](https://www.codenamesgreen.com/) | another [CodeNames](https://www.horsepaste.com/) | and [one more, from github...](https://ninjabunny.github.io/KodeNames/#)
+### [CodeNames](https://www.codenamesgreen.com/), and another [CodeNames](https://www.horsepaste.com/), and [one more, from github...](https://ninjabunny.github.io/KodeNames/#)
 
-### [Pictionary](https://skribbl.io/) | another [Pictionary](https://www.drawize.com/)
+### [Pictionary](https://skribbl.io/), and another [Pictionary](https://www.drawize.com/)
 
 ### [Catan Universe](https://catanuniverse.com/en/)
 
