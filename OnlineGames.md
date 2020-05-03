@@ -4,7 +4,7 @@
 
 ### [Taboo](https://playtaboo.com/playpage)
 
-### [Pictionary](https://skribbl.io/)   [Another Pictionary](https://www.drawize.com/)
+### [Pictionary](https://skribbl.io/). And [another Pictionary](https://www.drawize.com/)
 
 ### [Catan Universe](https://catanuniverse.com/en/)
 
