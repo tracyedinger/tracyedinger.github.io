@@ -14,6 +14,7 @@
 
 ## Assorted games: 
 
+### [Thinkable Puzzles](https://thinkablepuzzles.com)
 ### [Game Sheep](https://www.gamesheep.com/)
 ### [Tabletopia](https://tabletopia.com/)
 ### [Poki](https://poki.com/en/cards)
